@@ -1,0 +1,8 @@
+const TICKET_STATUS={
+    SUCCESS:'SUCCESS',
+    PENDING:'PENDING',
+    FAILED:'FAILED'
+}
+module.exports={
+    TICKET_STATUS
+}
